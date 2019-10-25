@@ -3,4 +3,4 @@ let divide = function(){
 }
 
 
-let square = x => x**2;
+let square = x => x*x;
